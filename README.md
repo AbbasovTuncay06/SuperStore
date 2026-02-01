@@ -1,2 +1,2 @@
 # SuperStore
-SuperStore dataset-inde məlumatların təmizlənməsi,analizi,vizualizasiyası
+Burada SuperAtore cedvəlinə aid melumatlarin temizlenmesi,avtomatlasdirma isleri ve vizualizasiya islerine baxacayiq .Bu repository-de Messy-SuperStore  cedvelindeki duzgun olmayan melumatların təmizlənməsi,vizualizasiyası,avtomatlasdirilmasi yerinə yetirilir.SSMS-de cirkli datanin temizlenmesi(null deyerlerin silinmesi ve deyisdirilmesi),Funksiya ,Trigger,prosedurların,indexlerin yaradilmasi yaradılması yerinə yetirilir.Excelde ilkin isler yerine yetirilir,aggregate funksiyalardan,vlookup,xlookup istifade olunur,Pivot table ve onlara uygun dinamik dashboard yaradilir.Power BI da ise vizualizasiya isleri yerine yetirilir
